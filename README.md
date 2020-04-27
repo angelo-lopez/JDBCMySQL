@@ -1,7 +1,7 @@
 # JDBCMySQL
 DBCMySQLXMLInsert Class:
 
-Reads the contents of an xml file and inserts the records to a table named "employees".
+Reads the contents of an xml file and inserts the elements to a table named "employees".
 
 Schema: classicmodels
 Database: MySQL Community Server
